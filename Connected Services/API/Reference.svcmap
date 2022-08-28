@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="04321cca-6ace-4df3-87c5-209759c7b6dd" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8733/Design_Time_Addresses/CarMarketplaceAPI/" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="item.xsd" MetadataType="Schema" ID="09c98976-685c-46e1-8d54-c535f2fc0a69" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/CarMarketplaceAPI/?xsd=xsd0" />
+    <MetadataFile FileName="item.disco" MetadataType="Disco" ID="4840ca6f-b7dd-411d-8ced-2e30fc1803b6" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/CarMarketplaceAPI/?disco" />
+    <MetadataFile FileName="item1.xsd" MetadataType="Schema" ID="e369f64d-fa05-4027-a2f5-d1b4898c5469" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/CarMarketplaceAPI/?xsd=xsd2" />
+    <MetadataFile FileName="item2.xsd" MetadataType="Schema" ID="84cd338a-3ab2-4711-b2f7-19d8d1afb391" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/CarMarketplaceAPI/?xsd=xsd1" />
+    <MetadataFile FileName="CarMarketplaceAPI.wsdl" MetadataType="Wsdl" ID="76b19141-d8c2-47aa-8e98-89cb77f10591" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/CarMarketplaceAPI/?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
